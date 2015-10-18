@@ -7,10 +7,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: Jay
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: jayji0210@gmail.com
+name: Jay Ji
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
@@ -80,7 +80,7 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/jayji0210
     desc: Fork me on GitHub
     share: false
 
@@ -172,6 +172,6 @@ protocols:
 
     twitter_image: "assets/logo.png"
 
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    os_repo: "https://github.com/jayji0210/jayji0210.github.com"
     os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+    os_src: "git@github.com:jayji0210/jayji0210.github.com.git"
